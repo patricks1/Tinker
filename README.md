@@ -4,5 +4,6 @@ This script
 (2) bins and calculates the number densities of dark matter halo masses from the Bolshoi simulation, and
 (3) matches the abundances of dark matter halos and galaxies of certain masses.
 
+
 REFERENCES
-Baldry, I. K. et al., 2012, MNRAS 421, 621–634
+Baldry, I. K. et al., 2012, MNRAS 421, 621â€“634
