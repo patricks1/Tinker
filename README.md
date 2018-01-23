@@ -5,5 +5,5 @@ This script
 (3) matches the abundances of dark matter halos and galaxies of certain masses.
 
 
-REFERENCES
+REFERENCES  
 Baldry, I. K. et al., 2012, MNRAS 421, 621–634
