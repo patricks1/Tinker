@@ -15,6 +15,6 @@ Users can use this as a tool to generate SHMR functions given various values of 
 This script executes a "2D abundance matching" process, named such because it takes two parameters, the SMF and the scatter around the mean SHMR. It finds the best-fit parameters for the functional form of the SHMR given by Hudson et al. (2015) so, given a certain scatter, the resulting SMF matches Baldry et al. (2012).
 
 ## References
-Baldry, I. K., Driver, S. P., Loveday, J., et al. 2012, MNRAS, 421, 621
-Hudson, M. J., Gillis, B. R., Coupon, J., et al. 2015, MNRAS, 447, 298
-Kartaltepe, J. S., Sanders, D. B., Scoville, N. Z., et al. 2007, ApJS, 172, 320
+Baldry, I. K., Driver, S. P., Loveday, J., et al. 2012, MNRAS, 421, 621  
+Hudson, M. J., Gillis, B. R., Coupon, J., et al. 2015, MNRAS, 447, 298  
+Kartaltepe, J. S., Sanders, D. B., Scoville, N. Z., et al. 2007, ApJS, 172, 320  
